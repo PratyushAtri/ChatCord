@@ -4,8 +4,25 @@
   "description": "Realtime chatapp with groups",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server",
+    "dev": "nodemon server"
   },
   "author": "Pratyush Atri",
-  "license": "ISC"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PratyushAtri/ChatCord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PratyushAtri/ChatCord/issues"
+  },
+  "homepage": "https://github.com/PratyushAtri/ChatCord#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.27.0",
+    "socket.io": "^2.3.0"
+  }
 }
