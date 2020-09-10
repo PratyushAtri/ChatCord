@@ -5,8 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server",
-    "dev": "nodemon server",
-    "heroku-postbuild":  "NPM_CONFIG_PRODUCTION=false npm install && npm run build"
+    "dev": "nodemon server"
   },
   "author": "Pratyush Atri",
   "license": "MIT",
