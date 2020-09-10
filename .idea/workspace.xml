@@ -20,13 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68dc1170-ca2f-431e-84cb-55e06b1843a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/messages.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/users.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/chat.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/chat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +59,7 @@
       <updated>1599669614716</updated>
       <workItem from="1599669616797" duration="1061000" />
       <workItem from="1599670690266" duration="6874000" />
+      <workItem from="1599707311104" duration="593000" />
     </task>
     <servers />
   </component>
@@ -81,6 +76,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1599670675558">
